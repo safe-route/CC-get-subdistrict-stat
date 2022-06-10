@@ -46,3 +46,7 @@ to get a response like
   }
 }
 ```
+
+## Docker Support
+
+run build_image.sh to build a docker file (make sure you have docker with pack tool installed)
